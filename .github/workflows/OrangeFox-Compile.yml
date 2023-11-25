@@ -22,7 +22,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/Exynos7880-Linux/android_device_huawei_kirin710-shrp'
+        default: 'https://github.com/Exynos7880-Linux/android_device_huawei_kirin710-twrp'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
